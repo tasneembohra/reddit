@@ -3,10 +3,18 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/home_nav_graph"
-    app:startDestination="@id/movieListFragment">
+    app:startDestination="@id/articleListFragment">
     <fragment
-        android:id="@+id/movieListFragment"
+        android:id="@+id/articleListFragment"
         android:name="com.tasneembohra.github.ui.list.ArticleListFragment"
-        android:label="fragment_movie_list"
-        tools:layout="@layout/fragment_movie_list" />
+        android:label="fragment_article_list"
+        tools:layout="@layout/fragment_article_list">
+        <action
+            android:id="@+id/action_articleListFragment_to_bottomSheetDialog"
+            app:destination="@id/bottomSheetDialog" />
+    </fragment>
+    <dialog
+        android:id="@+id/bottomSheetDialog"
+        android:name="com.tasneembohra.github.ui.list.BottomSheetDialog"
+        android:label="BottomSheetDialog" />
 </navigation>

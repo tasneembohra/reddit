@@ -13,5 +13,5 @@ class ArticleListFragmentModule {
 
     @Provides
     fun provideViewModel(fragment: ArticleListFragment, repo: Repository) =
-        fragment.getActivityViewModel { ArticleViewModel(repo) }
+        fragment.getViewModel { ArticleViewModel(repo) }
 }
