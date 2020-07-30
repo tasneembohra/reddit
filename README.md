@@ -11,9 +11,12 @@ This project follows MVVM architecture and Single Activity architecture.
 
 Testing Framworks - Espress, Mockito - TODO
 
-<img src="https://github.com/tasneembohra/githubrepo/blob/master/screenshot/home.png" alt="alt text" width="250" height="500"><img src="https://github.com/tasneembohra/githubrepo/blob/master/screenshot/list-land.png" alt="alt text" width="250" height="500">
-<img src="https://github.com/tasneembohra/githubrepo/blob/master/screenshot/detail1.png" alt="alt text" width="250" height="500"><img src="https://github.com/tasneembohra/githubrepo/blob/master/screenshot/detail2.png" alt="alt text" width="250" height="500">
-<img src="https://github.com/tasneembohra/githubrepo/blob/master/screenshot/detail3.png" alt="alt text" width="250" height="500"><img src="https://github.com/tasneembohra/githubrepo/blob/master/screenshot/detail4.png" alt="alt text" width="250" height="500">
+<img src="https://github.com/tasneembohra/githubrepo/blob/master/screenshot/home.png" alt="alt text" width="250" height="500"/>
+<img src="https://github.com/tasneembohra/githubrepo/blob/master/screenshot/list-land.png" alt="alt text" width="250" height="500"/>
+<img src="https://github.com/tasneembohra/githubrepo/blob/master/screenshot/detail1.png" alt="alt text" width="250" height="500"/>
+<img src="https://github.com/tasneembohra/githubrepo/blob/master/screenshot/detail2.png" alt="alt text" width="250" height="500"/>
+<img src="https://github.com/tasneembohra/githubrepo/blob/master/screenshot/detail3.png" alt="alt text" width="250" height="500"/>
+<img src="https://github.com/tasneembohra/githubrepo/blob/master/screenshot/detail4.png" alt="alt text" width="250" height="500"/>
 
 ### Prerequisites
 
